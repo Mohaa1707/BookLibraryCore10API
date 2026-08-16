@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CaLTZch1L48=",
+  "dgSpecHash": "Y/bqhUlaHtY=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\BookLibrarySolution\\BookLibrary\\BookLibrary.csproj",
+  "projectFilePath": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\BookLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mithr\\.nuget\\packages\\automapper\\16.2.0\\automapper.16.2.0.nupkg.sha512",
     "C:\\Users\\mithr\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",

@@ -1,10 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\BookLibrarySolution\\",
+  "WorkspaceRootPath": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52DA5094-31E2-4138-AC0F-42ADA619817D}|BookLibrary\\BookLibrary.csproj|d:\\projects\\booklibrarysolution\\booklibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52DA5094-31E2-4138-AC0F-42ADA619817D}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|d:\\arul-sir-training\\projects\\booklibrarysolution\\booklibrary\\controllers\\booklibrarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\controllers\\booklibrarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|d:\\arul-sir-training\\projects\\booklibrarysolution\\booklibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|d:\\arul-sir-training\\projects\\booklibrarysolution\\booklibrary\\entities\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\entities\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|d:\\arul-sir-training\\projects\\booklibrarysolution\\booklibrary\\repositories\\booklibraryrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\repositories\\booklibraryrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|d:\\arul-sir-training\\projects\\booklibrarysolution\\booklibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|d:\\arul-sir-training\\projects\\booklibrarysolution\\booklibrary\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|d:\\arul-sir-training\\projects\\booklibrarysolution\\booklibrary\\mapper\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\mapper\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|d:\\arul-sir-training\\projects\\booklibrarysolution\\booklibrary\\contracts\\ibooklibraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\contracts\\ibooklibraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|d:\\arul-sir-training\\projects\\booklibrarysolution\\booklibrary\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|d:\\arul-sir-training\\projects\\booklibrarysolution\\booklibrary\\contracts\\ibooklibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\contracts\\ibooklibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|d:\\arul-sir-training\\projects\\booklibrarysolution\\booklibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E16AD1-05A4-DC87-EC3B-6C3BE0F020D9}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +59,144 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\BookLibrarySolution\\BookLibrary\\Program.cs",
-              "RelativeDocumentMoniker": "BookLibrary\\Program.cs",
-              "ToolTip": "D:\\Projects\\BookLibrarySolution\\BookLibrary\\Program.cs",
-              "RelativeToolTip": "BookLibrary\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Title": "BookLibraryController.cs",
+              "DocumentMoniker": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Controllers\\BookLibraryController.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Controllers\\BookLibraryController.cs",
+              "ToolTip": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Controllers\\BookLibraryController.cs",
+              "RelativeToolTip": "BookLibrary\\Controllers\\BookLibraryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-26T11:08:04.699Z",
+              "WhenOpened": "2026-08-16T10:30:55.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookLibraryRepository.cs",
+              "DocumentMoniker": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Contracts\\IBookLibraryRepository.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Contracts\\IBookLibraryRepository.cs",
+              "ToolTip": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Contracts\\IBookLibraryRepository.cs",
+              "RelativeToolTip": "BookLibrary\\Contracts\\IBookLibraryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T04:39:27.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookLibraryRepositories.cs",
+              "DocumentMoniker": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Repositories\\BookLibraryRepositories.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Repositories\\BookLibraryRepositories.cs",
+              "ToolTip": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Repositories\\BookLibraryRepositories.cs",
+              "RelativeToolTip": "BookLibrary\\Repositories\\BookLibraryRepositories.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAUwGEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T01:55:38.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookProfile.cs",
+              "DocumentMoniker": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Mapper\\BookProfile.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Mapper\\BookProfile.cs",
+              "ToolTip": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Mapper\\BookProfile.cs",
+              "RelativeToolTip": "BookLibrary\\Mapper\\BookProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T08:37:17.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Program.cs",
+              "ToolTip": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Program.cs",
+              "RelativeToolTip": "BookLibrary\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T08:40:36.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\appsettings.json",
+              "RelativeDocumentMoniker": "BookLibrary\\appsettings.json",
+              "ToolTip": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\appsettings.json",
+              "RelativeToolTip": "BookLibrary\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-16T12:38:48.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BookLibrary\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T12:35:32.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookLibrary.cs",
+              "DocumentMoniker": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Entities\\BookLibrary.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Entities\\BookLibrary.cs",
+              "ToolTip": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Entities\\BookLibrary.cs",
+              "RelativeToolTip": "BookLibrary\\Entities\\BookLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T07:43:32.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Service\\BookService.cs",
+              "ToolTip": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Service\\BookService.cs",
+              "RelativeToolTip": "BookLibrary\\Service\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T07:48:01.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookLibraryService.cs",
+              "DocumentMoniker": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Contracts\\IBookLibraryService.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Contracts\\IBookLibraryService.cs",
+              "ToolTip": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Contracts\\IBookLibraryService.cs",
+              "RelativeToolTip": "BookLibrary\\Contracts\\IBookLibraryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T08:06:40.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BookLibrary\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T08:34:12.677Z",
               "EditorCaption": ""
             }
           ]
