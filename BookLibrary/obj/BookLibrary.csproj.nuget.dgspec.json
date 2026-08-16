@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\BookLibrarySolution\\BookLibrary\\BookLibrary.csproj": {}
+    "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\BookLibrary.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\BookLibrarySolution\\BookLibrary\\BookLibrary.csproj": {
+    "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\BookLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\BookLibrarySolution\\BookLibrary\\BookLibrary.csproj",
+        "projectUniqueName": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\BookLibrary.csproj",
         "projectName": "BookLibrary",
-        "projectPath": "D:\\Projects\\BookLibrarySolution\\BookLibrary\\BookLibrary.csproj",
+        "projectPath": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\BookLibrary.csproj",
         "packagesPath": "C:\\Users\\mithr\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\BookLibrarySolution\\BookLibrary\\obj\\",
+        "outputPath": "D:\\Arul-sir-training\\Projects\\BookLibrarySolution\\BookLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
